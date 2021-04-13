@@ -41,7 +41,7 @@
         "click-completion~=0.5",
         "pint~=0.16.1",
         "requests~=2.20",
-        "sqlalchemy<1.4"
+        "sqlalchemy-utils>=0.37"
     ],
     "extras_require": {
         "pre-commit": [
@@ -56,5 +56,5 @@
     "license": "MIT License",
     "name": "aiida-pseudo",
     "url": "https://github.com/aiidateam/aiida-pseudo",
-    "version": "0.5.0"
+    "version": "0.6.0"
 }
